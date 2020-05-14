@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "440ab5f8f9de2e538f50c66258799176",
+    "revision": "ea7b0f716c01472e8130c2d00cc272f7",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "6a7f45934a57b461f473",
-    "url": "/portfolio/static/css/main.5f2b13d9.chunk.css"
+    "revision": "3356c2857eae8e38a07a",
+    "url": "/portfolio/static/css/2.1a880fc0.chunk.css"
   },
   {
-    "revision": "236324c2e9a54bbfb513",
-    "url": "/portfolio/static/js/2.26af0ee1.chunk.js"
+    "revision": "75b80caead0364871406",
+    "url": "/portfolio/static/css/main.53686f37.chunk.css"
   },
   {
-    "revision": "6a7f45934a57b461f473",
-    "url": "/portfolio/static/js/main.ea6861ce.chunk.js"
+    "revision": "3356c2857eae8e38a07a",
+    "url": "/portfolio/static/js/2.85f3baf6.chunk.js"
   },
   {
-    "revision": "bbc52475575f157f18ec",
-    "url": "/portfolio/static/js/runtime-main.fab20e47.js"
+    "revision": "75b80caead0364871406",
+    "url": "/portfolio/static/js/main.f963dc02.chunk.js"
+  },
+  {
+    "revision": "8041619f9eff9816b1a3",
+    "url": "/portfolio/static/js/runtime-main.5186cf85.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -28,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "5d749dd14099d68134c3da838cf62998",
+    "url": "/portfolio/static/media/ad.5d749dd1.svg"
+  },
+  {
     "revision": "8abbdc69fb60b157ace479e562bb741f",
     "url": "/portfolio/static/media/avi.8abbdc69.jpg"
+  },
+  {
+    "revision": "a2d22db0761a8ad68731093e8960e6a1",
+    "url": "/portfolio/static/media/chatbot.a2d22db0.jpg"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -100,8 +112,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
+    "revision": "e70c7353a61233633af6163bc71f69f4",
+    "url": "/portfolio/static/media/haircut.e70c7353.png"
+  },
+  {
+    "revision": "ee197e718bb99ef4748249395228d951",
+    "url": "/portfolio/static/media/ignite.ee197e71.jpg"
+  },
+  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/portfolio/static/media/logo.25bf045c.svg"
+  },
+  {
+    "revision": "1ee3e3f4022cdb6c7bb2a5113eb43b46",
+    "url": "/portfolio/static/media/scrabble.1ee3e3f4.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
